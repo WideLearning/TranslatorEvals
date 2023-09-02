@@ -41,7 +41,7 @@ def run_human_evaluation(
 
 
 model = input("Name: ")
-scores, labels = run_human_evaluation(dataset[:5])
+scores, labels = run_human_evaluation(dataset[5:10])
 for c, l in zip(scores, labels):
     m = model
     try:

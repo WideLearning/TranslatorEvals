@@ -1,0 +1,11 @@
+score1,score2,score3,label1,label2,label3,model
+5,8,8,google,yandex,deepl,Mikhail
+6,9,7,google,deepl,yandex,Mikhail
+8,10,7,yandex,deepl,google,Mikhail
+5,5,6,yandex,google,deepl,Mikhail
+7,8,8,google,yandex,deepl,Mikhail
+6,6,7,deepl,google,yandex,Mikhail
+7,7,6,yandex,deepl,google,Mikhail
+6,7,7,google,yandex,deepl,Mikhail
+6,7,7,google,yandex,deepl,Mikhail
+8,7,6,yandex,deepl,google,Mikhail
