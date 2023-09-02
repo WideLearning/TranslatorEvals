@@ -5,7 +5,7 @@ We (Mikhail and Rodion) could not find a good independent benchmark of major onl
 ## Method
 
 ### Data preparation
-To select diverse Engish sentences we took the first 300 sentences from C4 dataset. After filtering out sentences with 5000+ characters we have 280 remaining.
+To select diverse Engish sentences we took the first 300 sentences from C4 dataset. After filtering out sentences with 5000+ characters we have 278 remaining.
 See `data/unparsed_texts.txt` and `parsing.ipynb`.
 
 ### Translation
